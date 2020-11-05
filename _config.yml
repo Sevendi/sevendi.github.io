@@ -15,7 +15,7 @@ author: Sevendi Eldrige Rifki Poluan
 
 navbar-links:
   About Me: "aboutme"  # LINK TO THE "aboutme" THE *.md FILE  
-  Publication: ""
+  Publication: "publication"
   
 
 # --- Logo --- #
