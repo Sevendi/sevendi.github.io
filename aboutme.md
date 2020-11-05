@@ -9,4 +9,6 @@ title: About me
 * Mobile Sensing and Systems Lab
 
 ## **Research Interests**
-* A
+* Pattern Recognition
+* Computer Vision and Image Processing
+* Machine Learning and Data Mining
