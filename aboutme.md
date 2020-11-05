@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About me 
 ---  
 
 ### My story
-##- I rock a great mustache
-##- I'm extremely loyal to my family
+subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to go on a date with me
