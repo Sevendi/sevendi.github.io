@@ -2,5 +2,8 @@
 layout: page
 ---  
  
-## My story
-- abc
+## **Personal Information**
+* Research Assistant
+* Dept. of Computer Science and Engineering, Yuan Ze University, Taiwan
+* Mobile Sensing and Systems Lab
+
