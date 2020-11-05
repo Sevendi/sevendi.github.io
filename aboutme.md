@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me 
+[comment]: # (title: About me )
 ---  
 
-### My story
+## My story
 - abc
