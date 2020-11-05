@@ -58,7 +58,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: https://orcid.org/0000-0002-1047-554X
+  ORCID: 0000-0002-1047-554X
   google-scholar: Sevendi Eldrige Rifki Poluan
 
 # If you want to show a link to an RSS in the footer, add the site description here.
